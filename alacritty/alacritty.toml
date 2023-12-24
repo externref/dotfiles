@@ -1,0 +1,9 @@
+[window]
+opacity = 0.95
+
+[font]
+size = 9
+
+[colors.cursor]
+text = "0xffffff"
+cursor = "0x4d4d4c"

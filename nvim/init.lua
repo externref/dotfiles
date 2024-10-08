@@ -1,1 +1,2 @@
-require("externref")
+require("config.lazy")
+require("environment")

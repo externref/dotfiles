@@ -1,4 +1,10 @@
-require("neo-tree").setup({
+return {
+	"nvim-neo-tree/neo-tree.nvim",
+	dependencies = {
+		{"nvim-lua/plenary.nvim", "nvim-tree/nvim-web-devicons", -- not strictly required, but recommended
+        "MunifTanjim/nui.nvim"}
+	},
+	opts={
 
     default_component_configs = {
         icon = {
@@ -94,4 +100,5 @@ require("neo-tree").setup({
         hide_dotfiles = false,
         hide_gitignored = false
     }
-})
+}
+}

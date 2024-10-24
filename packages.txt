@@ -1,0 +1,14 @@
+fish
+rofi
+polybar
+peek
+ripgrep
+lazygit
+yazi
+polybar 	
+kvantum 	
+qt5ct
+lxappearance
+picom
+nitrogen
+nordzy-icon-theme-git

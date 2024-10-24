@@ -1,9 +1,8 @@
 [window]
-opacity = 0.95
+padding = { x=7 }
+dynamic_padding = true
+opacity = 0.9
 
 [font]
 size = 9
 
-[colors.cursor]
-text = "0xffffff"
-cursor = "0x4d4d4c"
